@@ -37,9 +37,6 @@ function setup() {
     });
   }
 
-  saveGif("flower_animation_small.gif", 10);
-}
-
 function draw() {
   background(250, 245, 255);
   t++;
